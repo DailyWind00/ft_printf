@@ -15,7 +15,7 @@ cd ft_printf
 make
 ```
 
-You also have theses commands for cleaning the ft_printf directory :
+You also have these commands for cleaning the ft_printf directory :
 ```shell
 # Clean all object files (*.o)
 make clean
