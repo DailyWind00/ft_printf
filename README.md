@@ -1,5 +1,6 @@
 # ft_printf ✅100/100
-Recreate the C function printf.
+Recreate the C function printf
+
 First use of the va_arg library (variadic functions)
 
 The function ft_printf will be added to the libft library
